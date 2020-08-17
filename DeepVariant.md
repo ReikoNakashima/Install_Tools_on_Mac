@@ -1,4 +1,4 @@
-# How to install DeepVarirnat
+# How to install DeepVariant
 
 Basically, we download the Docker image and follow their instrunction (https://github.com/google/deepvariant/blob/r0.10/docs/deepvariant-quick-start.md) but need to translate the commands to MacOS.
 
