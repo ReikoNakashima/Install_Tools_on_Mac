@@ -5,7 +5,7 @@ Basically, we download the Docker image and follow their instrunction (https://g
 
 1. Install Homebrew (http://brew.sh) to refresh the list of available packages
 
-Please note taht ```apt``` package manager is for Linux but not Mac. Instead, Homebrew is a good option.
+Please note that ```apt``` package manager is for Linux but not Mac. Instead, Homebrew is a good option.
 ```
 Unable to locate an executable at "/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/bin/apt" (-1)
 ```
