@@ -29,7 +29,7 @@ Quick start page (https://github.com/google/deepvariant/blob/r0.10/docs/deepvari
 ```
 brew install wget
 ```
-In the end of this process, I see the message below but so far don't see any obvious error. I'll further examine how this affects the downstream analysis.
+In the end of this process, I see the message below but so far my test run has completed without any error.
 ```
 If you need to have openssl@1.1 first in your PATH run:
   echo 'export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"' >> /Users/nakasr04/.bash_profile
