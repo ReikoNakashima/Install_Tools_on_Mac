@@ -7,7 +7,7 @@ Basically, we download the Docker image and follow their instrunction (https://g
 
 1. Install Homebrew (http://brew.sh) to refresh the list of available packages
 
-Please note that ```apt``` package manager is for Linux but not Mac. Instead, Homebrew is a good option.
+The DeepVariant instruction says to run ```sudo apt -y update``` but please note that ```apt``` package manager is for Linux but not Mac. You will get the following error when you use ```sudo apt -y update```. Instead, Homebrew is a good option. 
 ```
 Unable to locate an executable at "/Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/bin/apt" (-1)
 ```
